@@ -9,5 +9,6 @@ Hobbies:
 - Programming
 - Fishing
 - 3D Printing
+- Farming
 - Mathematics
 - Writing
